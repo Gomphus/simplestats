@@ -10,9 +10,9 @@ def test_mean():
 test_mean()
 
 def test_float_mean():
-	asssert(mean([1,2]) == 1.5)
+	assert(mean([1,2]) == 1.5)
 test_float_mean()
 
 def test_newmean():
 	assert(test_newmean(-2,2) == 0)
-test_newmean()git 
+test_newmean()python 
